@@ -243568,7 +243568,6 @@ j===$&&A.b()
 i=j.aX.a
 h=o.a
 if(!k.Q&&!k.z&&o.dx===1)return new A.r(f,f,f,f)
-if(o.w===1)return new A.r(f,f,f,f)
 o=i==h&&!j.iu
 j=t.S
 i=t.a
